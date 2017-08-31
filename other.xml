@@ -1,0 +1,97 @@
+<application>
+  <component name="AppInspectionProfilesVisibleTreeState">
+    <entry key="Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Android</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="CodeStyleSchemes">
+    <option name="CURRENT_SCHEME_NAME" value="Default" />
+  </component>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/usr/local/Cellar/node/8.1.4/bin/node">
+      <version-cache version="8.1.4" last-modified="1500281412000" />
+    </local-interpreter>
+    <local-interpreter path="/usr/local/bin/node">
+      <version-cache version="8.1.4" last-modified="1500475333000" />
+      <npm-package value="/usr/local/lib/node_modules/npm" />
+    </local-interpreter>
+    <local-interpreter path="/usr/local/Cellar/node/8.1.2/bin/node">
+      <version-cache version="8.1.2" last-modified="1498735918000" />
+    </local-interpreter>
+    <local-interpreter path="/usr/local/Cellar/node/8.0.0/bin/node">
+      <version-cache version="8.0.0" last-modified="1496318818000" />
+    </local-interpreter>
+    <local-interpreter path="/usr/local/opt/nvm/versions/node/v6.11.1/bin/node">
+      <version-cache version="6.11.1" last-modified="1499735291000" />
+    </local-interpreter>
+    <local-interpreter path="/usr/local/Cellar/node/6.4.0/bin/node">
+      <version-cache version="6.4.0" last-modified="1471271247000" />
+      <npm-package value="/usr/local/lib/node_modules/npm" />
+    </local-interpreter>
+    <local-interpreter path="/usr/local/Cellar/node/6.0.0/bin/node">
+      <version-cache last-modified="0" />
+    </local-interpreter>
+    <local-interpreter path="/usr/local/Cellar/node/5.10.0/bin/node">
+      <version-cache last-modified="0" />
+    </local-interpreter>
+  </component>
+  <component name="NodeLocalInterpreterManager">
+    <node-interpreter path="/usr/local/bin/node" version="6.10.2" last-modified="1493038339000" />
+    <node-interpreter path="/usr/local/Cellar/node/6.0.0/bin/node" version="(Does not exist)" last-modified="1493131271699" />
+    <node-interpreter path="/usr/local/Cellar/node/5.10.0/bin/node" version="(Does not exist)" last-modified="1493131271699" />
+  </component>
+  <component name="RefactoringSettings">
+    <option name="RENAME_SEARCH_IN_COMMENTS_FOR_CLASS" value="false" />
+    <option name="RENAME_SEARCH_FOR_TEXT_FOR_CLASS" value="false" />
+    <option name="MOVE_PREVIEW_USAGES" value="false" />
+    <option name="MOVE_SEARCH_IN_COMMENTS" value="false" />
+    <option name="MOVE_SEARCH_FOR_TEXT" value="false" />
+  </component>
+  <component name="SbtSettings">
+    <option name="jdkHome" value="" />
+  </component>
+  <component name="SelectProjectTemplateSettings">
+    <option name="EXPERT_MODE" value="true" />
+  </component>
+  <component name="com.intellij.ide.fileTemplates.impl.FileTemplateManagerImpl">
+    <recent_templates>
+      <option name="RECENT_TEMPLATES">
+        <value>
+          <list size="0" />
+        </value>
+      </option>
+    </recent_templates>
+  </component>
+  <component name="com.triemax.Jalopy">
+    <option messages.useStacktrace="true" />
+    <option update.remindOnSchedule="false" />
+    <option update.remindElapsedTime="Hour" />
+    <option messages.useProblemsView="false" />
+    <option update.hour="15:00 PM" />
+    <option messages.groupByPackage="true" />
+    <option sync.conventionTimeStamp="1446458292000" />
+    <option messages.groupBySeverity="true" />
+    <option update.day="Every day" />
+    <option sync.convention="http://admin.zalando.de/Zalando_Jalopy.xml" />
+    <option messages.linkWithEditor="true" />
+    <option update.enabled="true" />
+    <option messages.logFile="" />
+    <option messages.autoShow="true" />
+    <option sync.override="false" />
+    <option messages.levels="general:E;progress:I;inspector:E;parser:E;parserJavadoc:E;printer:E;printerJavadoc:E" />
+    <option update.schedule="on-startup" />
+    <option sync.profiles="Zalando" />
+    <option sync.cacheConvention="true" />
+  </component>
+</application>

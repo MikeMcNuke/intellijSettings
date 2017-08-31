@@ -1,0 +1,69 @@
+<application>
+  <component name="libraryTable">
+    <library name="ExtJS GPL-4.2" type="javaScript">
+      <properties>
+        <option name="frameworkName" value="ExtJS 4.2" />
+        <option name="frameworkVersion" value="4.2.0" />
+      </properties>
+      <CLASSES />
+      <DOCUMENTATION>
+        <root url="http://docs.sencha.com/extjs/4.2.0/#!/api" />
+      </DOCUMENTATION>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="jQuery-2.0.0" type="javaScript">
+      <properties>
+        <option name="frameworkName" value="jQuery" />
+      </properties>
+      <CLASSES />
+      <DOCUMENTATION>
+        <root url="http://api.jquery.com" />
+      </DOCUMENTATION>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="Modernizr-2.6.2" type="javaScript">
+      <properties>
+        <option name="frameworkName" value="Modernizr" />
+        <option name="frameworkVersion" value="2.6.2" />
+      </properties>
+      <CLASSES />
+      <DOCUMENTATION>
+        <root url="http://www.modernizr.com/docs" />
+      </DOCUMENTATION>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="Prototype-1.7.1" type="javaScript">
+      <properties>
+        <option name="frameworkName" value="Prototype" />
+        <option name="frameworkVersion" value="1.7.1" />
+      </properties>
+      <CLASSES />
+      <DOCUMENTATION>
+        <root url="http://api.prototypejs.org" />
+      </DOCUMENTATION>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="scala-sdk-2.10.5" type="Scala">
+      <properties>
+        <option name="languageLevel" value="Scala_2_10" />
+        <compiler-classpath>
+          <root url="file://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-compiler/jars/scala-compiler-2.10.5.jar" />
+          <root url="file://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.10.5.jar" />
+          <root url="file://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.10.5.jar" />
+        </compiler-classpath>
+      </properties>
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.10.5.jar!/" />
+        <root url="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.10.5.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="http://www.scala-lang.org/api/2.10.5/" />
+      </JAVADOC>
+      <SOURCES />
+    </library>
+  </component>
+</application>
