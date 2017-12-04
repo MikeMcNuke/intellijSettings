@@ -1,0 +1,13 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern=".gitignore_global" type="Git file" />
+      <mapping pattern="SignupPassword" type="PLAIN_TEXT" />
+      <mapping pattern="100755" type="PLAIN_TEXT" />
+      <mapping pattern="price" type="PLAIN_TEXT" />
+      <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
+      <mapping ext="sxw" type="PLAIN_TEXT" />
+      <mapping pattern="enum-mailRecipient.ts" type="TypeScript" />
+    </extensionMap>
+  </component>
+</application>
