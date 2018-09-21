@@ -1,6 +1,6 @@
 <application>
   <component name="TerminalOptionsProvider">
-    <option name="myShellPath" value="bash" />
-    <option name="myTabName" value="Ubuntu Bash" />
+    <option name="myShellPath" value="C:\Windows\System32\cmd.exe" />
+    <option name="myTabName" value="Windows Terminal" />
   </component>
 </application>
