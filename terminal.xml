@@ -1,6 +1,6 @@
 <application>
   <component name="TerminalOptionsProvider">
-    <option name="myShellPath" value="C:\Windows\System32\cmd.exe /k &quot;C:\Program Files\nodejs\nodevars.bat&quot;" />
+    <option name="myShellPath" value="C:\Windows\System32\cmd.exe" />
     <option name="myTabName" value="Windows Terminal" />
   </component>
 </application>
